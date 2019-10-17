@@ -34,7 +34,6 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    // Add Script Stop 
     "stop": "react-scripts stop",
     "eject": "react-scripts eject"
   },
