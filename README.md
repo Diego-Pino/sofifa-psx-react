@@ -69,6 +69,7 @@ Todo el equipo de **MexWE por su trabajo**
 - [x] @Darkensses
 - [x] @DiegoPino
 - [x] @PoliPoli
+- [x] @inrumi 
 
 
 ## Code Status
