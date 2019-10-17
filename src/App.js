@@ -223,7 +223,8 @@ class App extends Component {
   }
 
   render() {    
-    const {auxplayer} = this.state;
+    //Compiled with warnings: 'auxplayer' is assigned a value but never used. no-unused-vars
+    //const {auxplayer} = this.state;
 
     return (
       <div>
