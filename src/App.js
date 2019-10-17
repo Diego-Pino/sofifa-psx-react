@@ -248,7 +248,8 @@ class App extends Component {
         <div className="app__header">
           <h1>MexWE</h1>
           <hr className="colored" />
-          <span>
+          // Emojis should be wrapped in <span>, have role="img", and have an accessible description with aria-label or aria-labelledby  jsx-a11y/accessible-emoji
+          <span role="img" aria-label="imagen">
             Scraping tool ⛏🔧 to get the stats from SOFIFA 🌐 and then convert
             them to a MCR PSX 🎮
           </span>
